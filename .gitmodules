@@ -4,3 +4,9 @@
 [submodule "fpga_vivado_scripts_pr"]
 	path = fpga_vivado_scripts_pr
 	url = https://github.com/lastweek/fpga_vivado_scripts_pr
+[submodule "fpga_interpret_bitstream"]
+	path = fpga_interpret_bitstream
+	url = https://github.com/lastweek/fpga_interpret_bitstream
+[submodule "fpga_vivado_embeddedsw"]
+	path = fpga_vivado_embeddedsw
+	url = https://github.com/lastweek/fpga_vivado_embeddedsw
