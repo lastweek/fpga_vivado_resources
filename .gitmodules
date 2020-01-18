@@ -10,3 +10,6 @@
 [submodule "fpga_vivado_embeddedsw"]
 	path = fpga_vivado_embeddedsw
 	url = https://github.com/lastweek/fpga_vivado_embeddedsw
+[submodule "fpga_icap_hls"]
+	path = fpga_icap_hls
+	url = https://github.com/lastweek/fpga_icap_hls

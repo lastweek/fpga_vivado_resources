@@ -12,11 +12,15 @@ If it was not for my research project, I would not started using FPGA.
 Scripts:
 
 - `XilinxTclStore`. Many useful scripts from Xilinx.
-- `fpga_vivado_scripts_pr`. Non-project scripts for partial reconfiguration flow.
 
 Software:
 
 - `fpga_vivado_embeddedsw`: MicroBlaze system layer code from Xilinx.
+
+Partial Reconfiguration:
+
+- `fpga_vivado_scripts_pr`. Non-project scripts for partial reconfiguration flow.
+- `fpga_icap_hls`: HLS-based ICAPE3 Controller
 
 Bitstream:
 
