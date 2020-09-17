@@ -24,7 +24,7 @@ Partial Reconfiguration:
 
 Bitstream:
 
-- `fpga_interpret_bitstream`. Simple program to interpret bitstream format.
+- `fpga_decode_bitstream`. Simple program to interpret bitstream format.
 
 Misc:
 
